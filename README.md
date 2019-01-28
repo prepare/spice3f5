@@ -2,13 +2,12 @@
 
 from https://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/
 
-SPICE is a general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses. Circuits may contain resistors, capacitors, inductors, mutual inductors, independent voltage and current sources, four types of dependent sources, lossless and lossy transmission lines (two separate implementations), switches, uniform distributed RC lines, and the five most common semiconductor devices: diodes, BJTs, JFETs, MESFETs, and MOSFETs. SPICE originates from the EECS Department of the University of California at Berkeley(https://eecs.berkeley.edu/). 
+**SPICE** is a general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses. Circuits may contain resistors, capacitors, inductors, mutual inductors, independent voltage and current sources, four types of dependent sources, lossless and lossy transmission lines (two separate implementations), switches, uniform distributed RC lines, and the five most common semiconductor devices: diodes, BJTs, JFETs, MESFETs, and MOSFETs. SPICE originates from the EECS Department of the University of California at Berkeley(https://eecs.berkeley.edu/). 
 
 
 source code from https://ptolemy.berkeley.edu/projects/embedded/pubs/downloads/spice/index.htm
 
-...
-7/17/2007 Spice is covered now covered by the BSD Copyright:
+> 7/17/2007 Spice is covered now covered by the BSD Copyright:
 
 Copyright (c) 1985-1991 The Regents of the University of California.
 All rights reserved.
@@ -29,8 +28,8 @@ FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN
 "AS IS" BASIS, AND THE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATION TO PROVIDE
 MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-It is no longer necessary to fill out a software agreement. 
-...
+> It is no longer necessary to fill out a software agreement. 
+
 
 
 
